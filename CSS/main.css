@@ -1,0 +1,14 @@
+header, footer {
+  background-color: #efefef;
+}
+.carousel {
+  width: 100%; /* Ширина */
+
+    background: #f0f0f0; /* Цвет фона */
+    border-radius: 5px; /* Радиус скругления */
+    padding-left:5%;
+    padding-right: 5%;/* Поля */
+}
+.justify-content-center{
+
+}
